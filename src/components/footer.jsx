@@ -35,7 +35,7 @@ const Footer = () => {
     display: 'flex',
     flexDirection: 'column',
     gap: '12px',
-    fontSize: '1.2rem',
+    fontSize: '13PX',
   };
 
   const menuItemStyle = {
@@ -54,7 +54,7 @@ const Footer = () => {
   const socialIconsStyle = {
     display: 'flex',
     gap: '25px',
-    fontSize: '2rem',
+    fontSize: '13px',
     cursor: 'pointer',
   };
 

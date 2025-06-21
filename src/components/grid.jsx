@@ -88,9 +88,9 @@ const Grid = () => {
           ...(animate ? gridStyles.leftColumnVisible : {}),
         }}
       >
-        <h2 style={gridStyles.heading}>Smart Tech Starts with Nexso</h2>
+        <h2 style={gridStyles.heading}>Smart Travel Starts with Nexso</h2>
         <p style={gridStyles.subheading}>
-          Explore cutting-edge electronics designed for your home, work, and lifestyle. From smart gadgets to high-performance gear — Nexso brings innovation to your fingertips.
+        Explore cutting-edge tech designed for life on the move — whether you're jet-setting, road-tripping, or working remotely. From compact gadgets to high-performance gear, Nexso empowers every journey with innovation at your fingertips.
         </p>
         <a
           href="https://nexso.ae"
@@ -98,7 +98,7 @@ const Grid = () => {
           rel="noopener noreferrer"
           style={gridStyles.button}
         >
-          Shop Nexso Now
+          Explore Nexso Essentials
         </a>
       </div>
       <div

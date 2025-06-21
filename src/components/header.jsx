@@ -168,7 +168,7 @@ const styles = {
     padding: '8px 20px',
     border: '1px solid #0FF8CB',
     backgroundColor: '#15F95B',
-    color: '#fff',
+    color: '#000',
     borderRadius: '20px',
     fontWeight: '600',
     fontSize: '14px',
