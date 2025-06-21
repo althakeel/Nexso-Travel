@@ -6,7 +6,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
 
-  const menuItems = ['Home', 'About', 'Product', 'Contact'];
+  const menuItems = ['Home', 'Product', 'About', 'Contact'];
 
   useEffect(() => {
     const handleResize = () => setIsMobile(window.innerWidth <= 768);
@@ -166,7 +166,7 @@ const styles = {
   },
   button: {
     padding: '8px 20px',
-    border: '1px solid #0FF8CB',
+    // border: '1px solid #0FF8CB',
     backgroundColor: '#15F95B',
     color: '#000',
     borderRadius: '20px',
