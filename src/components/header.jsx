@@ -27,7 +27,7 @@ const Header = () => {
   return (
     <header style={styles.header}>
       <img
-        src="https://nexso.ae/cdn/shop/files/gempages_570467022396195992-47fa007c-ed4c-493e-9ce5-054822685112.png?v=1749558524&width=185"
+        src="https://res.cloudinary.com/drkfb976p/image/upload/v1750860360/Nexso_black_bg_2_sfedgb.jpg"
         alt="Nexso Logo"
         style={styles.logo}
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
@@ -128,7 +128,7 @@ const styles = {
     fontFamily: "'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif",
   },
   logo: {
-    height: '24px',
+    height: '38px',
     cursor: 'pointer',
   },
   nav: {
